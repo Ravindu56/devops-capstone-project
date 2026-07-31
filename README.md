@@ -1,3 +1,7 @@
+# devops-capstone-project
+
+![Build Status](https://github.com/Ravindu56/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 ## Project Description
 
 This repository contains my implementation of the **DevOps Capstone Project**, part of the IBM DevOps and Software Engineering Professional Certificate on Coursera. The project builds a **Customer Accounts RESTful microservice** for an e-commerce platform, following Agile, Test-Driven Development (TDD), and DevOps best practices from planning through production deployment.
